@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="username">Username</string>
+    <string name="emailid">email@id.com</string>
+    <string name="api_key">02c6792e177a4a8998c3df95149f77da</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
